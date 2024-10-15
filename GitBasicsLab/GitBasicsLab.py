@@ -1,2 +1,2 @@
-print("Hello, Git!")
-print("Learning about Git diff")
+def greet(name):
+    return f"Hello, {name}! Welcome to Git and Github."
