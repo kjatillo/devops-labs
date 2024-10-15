@@ -13,3 +13,6 @@ def feature_b():
 
 def helper_function_1():
     return "I'm helping!"
+
+def helper_function_2():
+    return "I'm also helping!"
