@@ -10,3 +10,6 @@ def feature_a():
 
 def feature_b():
     return "This is feature B"
+
+def helper_function_1():
+    return "I'm helping!"
