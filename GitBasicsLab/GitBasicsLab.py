@@ -6,7 +6,7 @@ print("This line was added locally.")
 print("Another line added on GitHub.")
 
 def feature_a():
-    return "This is feature A"
+    return "This is the improved feature A"
 
 def feature_b():
     return "This is feature B"
